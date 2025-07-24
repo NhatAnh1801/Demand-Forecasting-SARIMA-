@@ -1,7 +1,7 @@
 # Forecast time series using SARIMA model
 This project demonstrates the implementation of a SARIMA (Seasonal AutoRegressive Integrated Moving Average) model to forecast product demand for a global manufacturing company. By analyzing historical data, the model aims to predict future order volumes, enabling better inventory and supply chain management.
 ## Dataset overview
-The dataset contains historical product demand for a manufacturing company with footprints globally. The company provides thousands of products within dozens of product categories. There are four central warehouses to ship products within the region it is responsible for. Since the products are manufactured in different locations all over the world, it normally takes more than one month to ship products via ocean to different central warehouses. If forecasts for each product in different central with reasonable accuracy for the monthly demand for month after next can be achieved, it would be beneficial to the company in multiple ways.
+The dataset contains historical product demand for a global manufacturing company that offers thousands of products across dozens of categories. The company utilizes four central warehouses to ship products to their respective regions.
 ## My workflow
 My approach to this forecasting project involved the following steps:
 - **Exploratory Data Analysis (EDA):** I began by conducting a thorough analysis of the original dataset to understand its structure and features.
