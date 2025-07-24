@@ -20,6 +20,6 @@ This project provided hands-on experience with several key data science and time
     - Mean Absolute Error (MAE)
     - Mean Absolute Percentage Error (MAPE)  
 ## Reference
-- Dataset:[Forecasts for Product Demand on Kaggle](https://www.kaggle.com/datasets/felixzhao/productdemandforecasting)
-- Acknowledgements:[Forecast Order Demand and Visualization](https://www.kaggle.com/code/imsanjoykb/forecast-order-demand-and-visualization)
+- Dataset: [Forecasts for Product Demand on Kaggle](https://www.kaggle.com/datasets/felixzhao/productdemandforecasting)
+- Acknowledgements: [Forecast Order Demand and Visualization](https://www.kaggle.com/code/imsanjoykb/forecast-order-demand-and-visualization)
 
